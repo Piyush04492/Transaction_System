@@ -1,0 +1,2 @@
+# Python dependencies for MySQL Banking System
+mysql-connector-python>=8.4.0
